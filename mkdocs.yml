@@ -1,0 +1,32 @@
+site_name: Reserva Alberdi 
+theme:
+  name: material
+  font:
+    code: Roboto Mono
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+      primary: light green
+      accent: purple 
+    - scheme: slate 
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode    
+      primary: light green
+      accent: lime
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/pex.reservaesc.alberdi?igsh=MWd3dTFhdG84N2pndw==
+extra_css:
+  - stylesheets/extra.css
+language: es
+nav:
+  - Inicio: index.md
+  - Actividades: actividades.md
+  - Presentacion a congresos: presentacion.md
+  - Galeria: galeria.md
+  - Contacto: contacto.md
+  - Recorridos: recorridos.md
