@@ -1,0 +1,32 @@
+/* :root {
+    --md-text-font: "Arial", Times, serif;
+    --md-text-color: #333;
+    --md-text-size: 16px;
+    --md-text-weight: 400;
+    --md-text-line-height: 1.5;
+    --md-text-letter-spacing: 0.5px;
+    --md-text-transform: none;
+    --md-text-decoration: none;
+    --md-text-align: left;
+    --md-text-shadow: none;
+} */
+
+.md-header__inner.md-grid {
+    grid-gap: 20px;
+}
+
+.md-header__inner.md-grid .md-header__title {
+    font-size: 2.8em;
+    font-weight: 700;
+    line-height: 2.2;
+    letter-spacing: 0.5px;
+}
+
+.md-nav__link {
+    font-size: 1.8em;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+}
+
+

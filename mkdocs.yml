@@ -1,8 +1,21 @@
 site_name: Reserva Alberdi 
+
+# Copyright
+copyright: 'Copyright &copy; 2024 - 2025 Noeli Baeza'
+
 theme:
   name: material
+  logo: imagenes/logosinfondo.png
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - header.autohide
+    - navigation.footer
   font:
-    code: Roboto Mono
+   text: Google Sans
+   code: Regular
+  favicon: imagenes/favicon.ico
+  language: es
   palette:
     - scheme: default
       toggle:
@@ -20,13 +33,16 @@ extra:
   social:
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/pex.reservaesc.alberdi?igsh=MWd3dTFhdG84N2pndw==
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/PEX.ReservaNaturalEscuelaAlberdi 
+
 extra_css:
   - stylesheets/extra.css
-language: es
+
 nav:
   - Inicio: index.md
   - Actividades: actividades.md
-  - Presentacion a congresos: presentacion.md
+  - Congresos: presentaciones.md
   - Galeria: galeria.md
   - Contacto: contacto.md
   - Recorridos: recorridos.md
