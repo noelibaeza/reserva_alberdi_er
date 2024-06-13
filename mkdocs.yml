@@ -39,10 +39,11 @@ extra:
 extra_css:
   - stylesheets/extra.css
 
+
 nav:
   - Inicio: index.md
   - Actividades: actividades.md
-  - Congresos: presentaciones.md
+  - Proyectos: presentaciones.md
   - Galeria: galeria.md
   - Contacto: contacto.md
   - Recorridos: recorridos.md
