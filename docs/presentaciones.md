@@ -42,4 +42,32 @@
 
 * “Análisis del contexto territorial de la cuenca de Oro Verde desde una perspectiva de conservación ecosistémica y gestión estratégica de los recursos naturales”. Informe técnico correspondiente a la adscripción ad-honorem de la Lic. Laura Santoni al Centro Regional de Geomática, Universidad Autónoma de Entre Ríos, Facultad de Ciencia y Tecnología. 2019.
 
+# Congresos y reuniones científicas
 
+* “FCyT Verde: Experiencias, perspectivas, desafíos, oportunidades en la implementación de la agenda ambiental de la FCyT UADER”. Autores: Zamboni Pamela, Fillipuzzi Juan P., Hergerneder Cristian, Guerra N., Medrano Jonathan. 3er Foro Nacional de Gestión y Educación Ambiental en Universidades. Universidad Nacional de Santiago del Estero. 2024.
+
+* “Aula abierta en la FCyT-UADER: Experiencias de Educación Ambiental en la Reserva Juan Bautista Alberdi”. Autores: Hergenreder Cristian, Santoni Laura, Frank Lucia, Vera Leila, Zamboni Pamela, Grimaux Alfredo. I Simposio Internacional de Prácticas de Restauración Ecológica, III Encuentro Nacional de Restauración Ecológica de la Argentina. Neuquén. 2023. Presentación de poster.
+
+* “Aves Frugívoras Y Potencialmente Dispersoras De Una Especie Exótica e Invasora (Morus alba L.) En Dos Reservas Del Espinal Entrerriano”. Autores: Cataudela, Juan Francisco y Dardanelli, Sebastián. Reunión Argentina de Ornitología (RAO). Puerto Madryn. Septiembre de 2022. Presentación de poster.
+
+* “Primer relevamiento de diversidad y abundancia relativa de micromamíferos terrestres en la Reserva Escuela Alberdi, Oro Verde, Entre Ríos”. Autores: Morguenstern, Quione; Zamboni, Lautaro; Martínez, Matías; Pineda Sánchez, Abigail; Morante, Nahir M.; Maroli, Malena; Sánchez, Laura Cecilia. Jornada; 81° Reunión de Comunicaciones Científicas de la Asociación de Ciencias Naturales del Litoral. Santa Fe. 2022.
+
+* “Inventario preliminar de la herpetofauna de la Reserva Juan Bautista Alberdi, Oro Verde, Entre Ríos”. Autores: Prieto, Yanina; Sánchez, Laura Cecilia; Martínez, Matías; Maroli, Malena; Zamboni, Lautaro; Morguenstern, Quione; Morante, Nahir M.; Pineda Sánchez, Abigail. Jornada; 81° Reunión de Comunicaciones Científicas de la Asociación de Ciencias Naturales del Litoral. Santa Fe. 2022.
+
+* “Efectividad de diferentes técnicas de monitoreo de anfibios en un humedal lacustre templado del Centro-Este de Argentina”. Autores: Sánchez, Laura Cecilia; Martínez, Matías; Prieto, Yanina; Maroli, Malena; Zamboni, Lautaro; Morguenstern, Quione; Morante, Nahir M.; Pineda Sánchez, Abigail. Congreso; XXII Congreso Argentino de Herpetología. Santa Fe. 2022.
+
+* “Inventario Preliminar De Aves De La Reserva De Uso Múltiple “Escuela Juan Bautista Alberdi” Y Zona De Influencia”. Autores: Ronchi-Virgolini, A. L.; Lorenzón, R.E.; Varela, C.; Wittwer, L.; Quinteros, D.; Burgardt, S. ; Trivisonno, M. Jornada; 81º Reunión de Comunicaciones Científicas de la Asociación de Ciencias Naturales del Litoral. Santa Fe. 2022.
+
+* “Educación Ambiental en Contexto de Pandemia”. Autores: Hergenreder Cristian y Wolenberg Valeria. III Jornada de intercambio de experiencias contextualizadas de enseñanza de las Ciencias Naturales en los distintos niveles del sistema educativo. Reflexiones sobre la enseñanza de las Ciencias en contexto de pandemia". dictado en Facultad de Humanidades, Artes y Ciencias Sociales. Paraná. 2021.
+
+* “Verde Que Te Quiero Verde”. Autores: Alfredo Grimaux, Fernanda Zabalegui, Cristian Hergenreder, Camila Varisco, Graciela Márquez, Valeria Wolenberg, Belén Victo, Fabricio Díaz, Laura Santoni, Priscilla Marigñac, Pablo Di Benedetto y Roberto Pereyra. 5to Encuentro Virtual de Enseñanza de las Ciencias Naturales EnCiNa5, promovido por la Asociación de Profesores de Física de la Argentina y realizado, en el marco de las actividades del Centro de Investigación y Apoyo a la Educación Científica de la Facultad de Farmacia y Bioquímica de la Universidad de Buenos Aires, del 9 al 12 de diciembre de 2020. Formato video.
+
+* “Aportes al ordenamiento territorial: los espacios verdes arbolados en la cuenca del arroyo Paracao (Oro Verde, Entre Ríos, Argentina)”. Autora: Laura Santoni. XII Jornadas de Educación en Percepción Remota en el Ámbito del Mercosur. Buenos Aires, 11-15 de Noviembre de 2019. Presentación de póster.
+
+* “La Reserva De La Escuela Alberdi, Un Aula Abierta Para El Estudio De Las Ciencias Naturales”.  Autores: Grimaux, A, Zabalegui, M.F, Marquéz, G, Varisco, C, Victo, J., Hergenreder, C. Se presentó en la primera sesión del Cuarto Simposio Virtual de Enseñanza de las Ciencias Naturales, realizado en el marco de las actividades del Centro de Investigación y Apoyo a la Educación Científica de la Facultad de Farmacia y Bioquímica de la Universidad de Buenos Aires durante Diciembre de 2019. Formato video.
+
+* “Descubriendo La “Reserva Natural Protegida Escuela Alberdi” (Entre Ríos, Argentina): El Aporte De Las Geotecnologías”. Autores: Pablo Di Benedetto, Gonzalo Gainza, Pamela Zamboni, Ignacio Quignard, Alfredo Grimaux y Walter Sione. Universidad Autónoma de Entre Ríos. Facultad de Ciencia y Tecnología. Sede Diamante. Licenciatura en Biología. Cátedra Sistemas de Información Geográfica. En el marco del Proyecto PEX “Evaluación de impacto ambiental en la Reserva Natural Protegida Escuela Alberdi” (CS Nº 085/2017 UADER). Jornada SELPER. 2019. Presentación de poster.
+
+* “Proyecto de Extensión (Pex 2017/2018) ‘Evaluación de Impacto ambiental en la Reserva Natural Protegida Escuela Alberdi’”. Autores: Hergenreder Cristian, Wolenberg Valeria y Di Benedetto Pablo. II Jornadas de intercambio de experiencias contextualizadas de enseñanza de las Ciencias Naturales en los distintos niveles del sistema educativo, FHAyCS-UADER. Oro Verde. 2018.
+
+* “Estudio y Ubicación Mediante El Empleo De Sistemas De Información Geográfica De Ejemplares De Prosopis sp. Dentro Del Área Natural Protegida Juan Bautista Alberdi”. Autores: Galarza R., Quinodoz G., Bretón A. y Sione W. 75° Reunion de Comunicaciones Cientificas Asociación de Ciencias Naturales del Litoral. Santa Fe. 2010.
