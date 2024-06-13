@@ -35,3 +35,11 @@
 * “Uso de perchas artificiales para favorecer la dispersión de semillas y la restauración de bosques” Tesista: Fátima María Lucrecia Miño. Director: Dr. Sebastián Dardanelli. Co-directora: Lic. Brenda Guidetti. (Tesis de Grado: Licenciatura en Biología (Plan 2005), Facultad de Ciencia y Tecnología - Universidad Autónoma de Entre Ríos. Facultad de Ciencia y Tecnología. 2016.
 
 * “Relevamiento del Área Natural Protegida correspondiente a la Escuela Juan Bautista Alberdi y ubicación de ejemplares de Prosopis sp. mediante el empleo del sistema de información geográfico, para su estudio y caracterización”. Tesistas: Rocío Alejandra Galarza y Gonzalo Iván Quinodoz. Director de Tesis: M.Sc. Ing. Agr. Adriana Bretón. Codirector: Dr. Walter Sione. Licenciatura en Biología (Plan 2005), Facultad de Ciencia y Tecnología – Universidad Autónoma de Entre Ríos. 2012.
+
+# Informes técnicos
+
+* “Presencia De Roedores Silvestres Reservorio De Hantavirus En La Reserva De Uso Múltiple ‘Escuela Juan Bautista Alberdi’”. Autores: Morguenstern, Quione; Pineda Sánchez, Abigail; Zamboni, Lautaro; Morante, Nahir M.; Martínez, Matías; Maroli, Malena; Tarquini, Juliana; Prieto, Yanina; Sánchez, Laura Cecilia; Ronchi Virgolini, Ana Laura. Informe técnico para la Dirección de la Escuela Normal Rural «Juan Bautista Alberdi» y el Programa de Zoonosis y Vectores de la Dirección de Epidemiología-Ministerio de Salud, Provincia de Entre Ríos. 2022.
+
+* “Análisis del contexto territorial de la cuenca de Oro Verde desde una perspectiva de conservación ecosistémica y gestión estratégica de los recursos naturales”. Informe técnico correspondiente a la adscripción ad-honorem de la Lic. Laura Santoni al Centro Regional de Geomática, Universidad Autónoma de Entre Ríos, Facultad de Ciencia y Tecnología. 2019.
+
+
