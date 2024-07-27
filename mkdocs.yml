@@ -7,10 +7,21 @@ theme:
   name: material
   logo: imagenes/logosinfondo.png
   features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.expand
+    - content.tabs.link
+    - content.code.copy
     - navigation.tabs
+    - navigation.path
     - navigation.tabs.sticky
+    - navigation.indexes
     - header.autohide
     - navigation.footer
+    - navigation.top
+    - navigation.tracking
+    - navigation.sections
+    - search.highlight
   font:
    text: Google Sans
    code: Regular
@@ -33,17 +44,30 @@ extra:
   social:
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/pex.reservaesc.alberdi?igsh=MWd3dTFhdG84N2pndw==
+      name: "Instagram"
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/PEX.ReservaNaturalEscuelaAlberdi 
-
+      name: "Facebook"
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<reserva.escalberdi@gmail.com>
+      name: "Contactanos"
+  # Don't include MkDocs' JavaScript
+  
 extra_css:
   - stylesheets/extra.css
-
 
 nav:
   - Inicio: index.md
   - Actividades: actividades.md
-  - Proyectos: presentaciones.md
-  - Galeria: galeria.md
+  - Proyectos:
+    - Proyectos de Investigación: presentaciones/presentaciones.md
+    - Proyectos de Extension: presentaciones/extension.md
+    - Tesinas y Trabajos Finales: presentaciones/tesinas.md
+    - Informes Técnicos: presentaciones/informes.md
+    - Congresos y Reuniones Científicas: presentaciones/congresos.md
+  - Galería: galeria.md
   - Contacto: contacto.md
-  - Recorridos: recorridos.md
+  - Recorridos:
+    - Recorrido 1: recorridos/recorridos.md
+    - Catálogo de especies: recorridos/especies.md
+

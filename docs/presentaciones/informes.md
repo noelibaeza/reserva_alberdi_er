@@ -1,0 +1,5 @@
+# Informes técnicos
+
+* “Presencia De Roedores Silvestres Reservorio De Hantavirus En La Reserva De Uso Múltiple ‘Escuela Juan Bautista Alberdi’”. Autores: Morguenstern, Quione; Pineda Sánchez, Abigail; Zamboni, Lautaro; Morante, Nahir M.; Martínez, Matías; Maroli, Malena; Tarquini, Juliana; Prieto, Yanina; Sánchez, Laura Cecilia; Ronchi Virgolini, Ana Laura. Informe técnico para la Dirección de la Escuela Normal Rural «Juan Bautista Alberdi» y el Programa de Zoonosis y Vectores de la Dirección de Epidemiología-Ministerio de Salud, Provincia de Entre Ríos. 2022.
+
+* “Análisis del contexto territorial de la cuenca de Oro Verde desde una perspectiva de conservación ecosistémica y gestión estratégica de los recursos naturales”. Informe técnico correspondiente a la adscripción ad-honorem de la Lic. Laura Santoni al Centro Regional de Geomática, Universidad Autónoma de Entre Ríos, Facultad de Ciencia y Tecnología. 2019.
