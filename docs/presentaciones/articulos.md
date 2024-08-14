@@ -1,0 +1,7 @@
+# Artículos Ciéntificos
+
+* Efectividad De Diferentes Técnicas De Registro De Anfibios En Un Humedal Lacustre Templado Del Centro-Este De Argentina”. Laura Cecilia Sánchez, Yanina Prieto, Malena Maroli y Ana Laura Ronchi-Virgolini. Revista Latinoamericana de Herpetología 6(01), Pag. 10-22. 8 de febrero de 2023.
+* Las perchas artificiales para aves en áreas deforestadas favorecen una lluvia de semillas similar a los remanentes de bosques. Autores: Guidetti Brenda Yamile, Dardanelli Sebastián, Miño Fátima María Lucrecia y Amico Guillermo Cesar. Plant Ecol (2022) 223:1261-1274. Pag. 1261-1274. 14 de Noviembre de 2022.
+* Cartografía de bosque nativo en la cuenca del Arroyo Paracao (Oro Verde, Entre Ríos, Argentina): aportes para el Ordenamiento Ambiental Territorial”. Santoni, L., Zamboni, P., Tentor, F. y Sione, W. Geografía y Sistemas de Información Geográfica (GeoSIG). 13(21). Sección I: 1-13. 2021.
+* S.O.S. – Aves de Entre Ríos. Escuela Normal Nro 01 “J.B. Alberdi”. Oro Verde. Provincia de Entre Ríos. Argentina”. Autor: Martinengo Juan Alberto. Pag. 98-99. Congreso Nacional de Conservación de la Biodiversidad. Escobar. Buenos Aires. 2004.
+* Avifauna registrada en la Reserva Natural “Juan Bautista Alberdi”, Oro Verde, Departamento Paraná, Provincia de Entre Ríos, Argentina”. Norberto Muzzachiodi. Nótulas Faunísticas ISSN-0327-0017 N°11. 2002. [Artículo](https://www.calameo.com/read/000296627b1f35daa1d44?page=1)

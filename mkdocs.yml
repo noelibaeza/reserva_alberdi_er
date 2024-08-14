@@ -33,13 +33,13 @@ theme:
         icon: material/brightness-7 
         name: Switch to dark mode
       primary: light green
-      accent: purple 
+      accent: deep orange
     - scheme: slate 
       toggle:
         icon: material/brightness-4
         name: Switch to light mode    
       primary: light green
-      accent: lime
+      accent: deep orange
 extra:
   social:
     - icon: fontawesome/brands/instagram
@@ -65,9 +65,10 @@ nav:
     - Tesinas y Trabajos Finales: presentaciones/tesinas.md
     - Informes Técnicos: presentaciones/informes.md
     - Congresos y Reuniones Científicas: presentaciones/congresos.md
+    - Artículos Científicos: presentaciones/articulos.md
+    - Otros trabajos de interés: presentaciones/otros.md
   - Galería: galeria.md
-  - Contacto: contacto.md
+  - Ubicación: contacto.md
   - Recorridos:
-    - Recorrido 1: recorridos/recorridos.md
+    - Recorridos: recorridos/recorridos.md
     - Catálogo de especies: recorridos/especies.md
-
